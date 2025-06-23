@@ -2,6 +2,7 @@
 
 # dependencies
 /.github/workflows/deploy-vercel-production
+/.github/workflows/deploy-vercel-preview
 /node_modules
 /.pnp
 .pnp.js
